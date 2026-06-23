@@ -1,16 +1,38 @@
-# Cómo potenciar tu talento
+# Portafolio Académico y Profesional: EBAC
 
-Repositorio dedicado a la certificación en habilidades transversales y desarrollo de talento profesional, avalado por la Escuela Británica de Artes Creativas y Tecnología (EBAC).
-
-## Detalles de la Certificación
-- **Institución:** EBAC (Escuela Británica de Artes Creativas y Tecnología)
-- **Fecha de emisión:** 13/05/2026
-- **ID de Certificado:** 06838-77358-16418-42551
-- **Estructura:** 6 módulos | 6 horas
-
-## Documentación
-El certificado oficial se encuentra disponible para su consulta:
-[ebac-certificate-2701e715-ba4d-4d92-91e0-7a1407953d2b.pdf](ebac-certificate-2701e715-ba4d-4d92-91e0-7a1407953d2b.pdf)
+Bienvenido al repositorio central de mis certificaciones y trayectoria académica en la **Escuela Británica de Artes Creativas y Tecnología (EBAC)**.
 
 ---
-*Certificación obtenida por: Patrick Salvador Hernández Arias.*
+
+## 📊 1. Profesión: Analista de Datos
+Certificación técnica que acredita competencias en procesamiento, análisis estadístico, modelado y visualización de datos.
+
+![Certificado Analista de Datos](analista_de_datos_pag_1.png)
+
+*   **Estado:** Graduado
+*   **Fecha de emisión:** 05/05/2026
+*   **ID:** 50709-77358-98603-45293
+
+---
+
+## 🚀 2. Cómo potenciar tu talento
+Formación en habilidades transversales y desarrollo de potencial profesional.
+
+![Potenciar Talento](potenciar_talento_pag_1.png)
+
+*   **Estado:** Finalizado
+*   **Fecha de emisión:** 13/05/2026
+*   **ID:** 06838-77358-16418-42551
+
+---
+
+## 🎓 3. Matrícula Académica
+Certificación vigente de estudiante en el curso online de Profesión Analista de Datos.
+
+![Matrícula](matricula_pag_1.png)
+
+*   **Fecha de vigencia:** 23/06/2026
+*   **ID:** 05762-77358-44601-43677
+
+---
+*Documentación consolidada por Patrick Salvador Hernández Arias.*
